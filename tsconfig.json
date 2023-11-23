@@ -12,7 +12,7 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "outDir": "./dist"
+    "outDir": "./build"
   },
   "include": ["**/*.ts"],
   "exclude": ["node_modules"]
